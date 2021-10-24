@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @MERV-c
+- 👀 C#, C++, PHP, Python
+- 🌱 C#, C++ basics
